@@ -1,0 +1,21 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+.title {
+    color: blue;
+    font-size: 2em;
+    text-align: center;
+}
+
+#intro {
+    font-style: italic;
+}
+
+.styled-image {
+    width: 200px;
+    border: 3px solid black;
+    margin: 10px;
+    padding: 5px;
+}
